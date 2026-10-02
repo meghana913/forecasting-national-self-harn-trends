@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.notebook/
+.ipynb_checkpoints/
+
+db.sqlite3
+
+*.map
+
+.env
+.venv/
+venv/
